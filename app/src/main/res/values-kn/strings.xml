@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಮೆಟ್ರೋ ಸಹಾಯ</string>
+    <string name="splash_tagline">ಮೊದಲ ಬಾರಿಗೆ ಬಂದವರಿಗೆ ಮೆಟ್ರೋ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="home_title">ನಮ್ಮ ಮೆಟ್ರೋ ಸಹಾಯ</string>
+    <string name="home_subtitle">ಮೊದಲ ಬಾರಿಗೆ ಮೆಟ್ರೋ ಬಳಸುವವರಿಗೆ ಸಹಾಯ</string>
+    <string name="lbl_from">ನೀವು ಎಲ್ಲಿದ್ದೀರಿ?</string>
+    <string name="lbl_to">ಎಲ್ಲಿಗೆ ಹೋಗಬೇಕು?</string>
+    <string name="hint_from">ನಿಲ್ದಾಣ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="hint_to">ನಿಲ್ದಾಣ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="btn_go">ಮಾರ್ಗ ಹುಡುಕಿ</string>
+    <string name="btn_token_guide">ಟೋಕನ್ ಹೇಗೆ ಖರೀದಿಸುವುದು?</string>
+    <string name="btn_swap">ಬದಲಾಯಿಸಿ</string>
+    <string name="btn_lang_toggle">English / ಕನ್ನಡ</string>
+    <string name="banner_offline">ಆಫ್‌ಲೈನ್ — ಮಾರ್ಗದರ್ಶಿ ಇನ್ನೂ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ</string>
+    <string name="err_empty">ಎರಡೂ ನಿಲ್ದಾಣಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="err_invalid">ನಿಲ್ದಾಣದ ಹೆಸರು ಸರಿಯಿಲ್ಲ. ಪಟ್ಟಿಯಿಂದ ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="err_same">ಬೇರೆ ಬೇರೆ ನಿಲ್ದಾಣಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ.</string>
+    <string name="err_no_route">ಕ್ಷಮಿಸಿ, ಮಾರ್ಗ ಸಿಗಲಿಲ್ಲ.</string>
+
+    <string name="route_title">ನಿಮ್ಮ ಮಾರ್ಗ</string>
+    <string name="fare_format">₹ %1$d</string>
+    <string name="time_format">%1$d ನಿಮಿಷ</string>
+    <string name="stops_format">%1$d ನಿಲ್ದಾಣಗಳು</string>
+    <string name="lbl_fare">ಬೆಲೆ</string>
+    <string name="lbl_time">ಪ್ರಯಾಣದ ಸಮಯ</string>
+    <string name="lbl_stops">ನಿಲ್ದಾಣಗಳು</string>
+    <string name="interchange_title">ಇಲ್ಲಿ ರೈಲು ಬದಲಾಯಿಸಿ</string>
+    <string name="interchange_hint">ಇಳಿದು ಬೇರೆ ಮಾರ್ಗಕ್ಕೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="btn_start_guide">ಮಾರ್ಗದರ್ಶಿ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="btn_find_exit">ನಿರ್ಗಮನ ಹುಡುಕಿ</string>
+    <string name="btn_next">ಮುಂದೆ</string>
+    <string name="btn_prev">ಹಿಂದೆ</string>
+    <string name="btn_done">ಮುಗಿಯಿತು</string>
+    <string name="lbl_journey_tips">ಪ್ರಯಾಣದ ಸಲಹೆಗಳು</string>
+
+    <string name="exit_title">ಯಾವ ನಿರ್ಗಮನ ಗೇಟ್?</string>
+    <string name="exit_subtitle">ನಿಮ್ಮ ಗಮ್ಯಸ್ಥಾನಕ್ಕೆ ಸರಿಹೊಂದುವ ಗೇಟ್ ಆಯ್ಕೆಮಾಡಿ</string>
+
+    <string name="token_title">ಟೋಕನ್ ಹೇಗೆ ಖರೀದಿಸುವುದು</string>
+    <string name="token_subtitle">ಮೊದಲ ಬಾರಿ ಬಳಸುವವರಿಗೆ ಹಂತ ಹಂತದ ಮಾರ್ಗದರ್ಶಿ</string>
+
+    <string name="stepper_title">ಚಿತ್ರ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="progress_format">ಹಂತ %1$d (%2$d ರಲ್ಲಿ)</string>
+</resources>

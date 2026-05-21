@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <path android:pathData="M30,30 H210 V210 H30 Z" android:fillColor="#11286B"/>
+    <path android:pathData="M45,45 H195 V170 H45 Z" android:fillColor="#06A77D"/>
+    <path android:pathData="M60,60 H180 V80 H60 Z" android:fillColor="#FFFFFF"/>
+    <path android:pathData="M60,90 H180 V110 H60 Z" android:fillColor="#FFFFFF"/>
+    <path android:pathData="M60,120 H180 V140 H60 Z" android:fillColor="#FFFFFF"/>
+    <!-- finger pointing -->
+    <path android:pathData="M120,180 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" android:fillColor="#FFB000"/>
+    <path android:pathData="M115,185 H125 V210 H115 Z" android:fillColor="#FFB000"/>
+</vector>

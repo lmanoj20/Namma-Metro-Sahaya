@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- Floor -->
+    <path android:pathData="M0,200 H240 V240 H0 Z" android:fillColor="#E7E7E7"/>
+    <!-- Left gate -->
+    <path
+        android:pathData="M40,80 H85 V200 H40 Z"
+        android:fillColor="#11286B" />
+    <!-- Right gate -->
+    <path
+        android:pathData="M155,80 H200 V200 H155 Z"
+        android:fillColor="#11286B" />
+    <!-- Tap circle on left gate -->
+    <path
+        android:pathData="M62.5,120 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0"
+        android:fillColor="#06A77D" />
+    <!-- Tap circle on right gate -->
+    <path
+        android:pathData="M177.5,120 m-15,0 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0"
+        android:fillColor="#06A77D" />
+    <!-- Opening between gates (arrow showing walk through) -->
+    <path
+        android:pathData="M105,150 L120,135 L120,143 L135,143 L135,157 L120,157 L120,165 Z"
+        android:fillColor="#FFB000" />
+</vector>

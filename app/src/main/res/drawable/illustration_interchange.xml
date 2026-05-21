@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- Background -->
+    <path android:pathData="M0,0 H240 V240 H0 Z" android:fillColor="#FFF7F2"/>
+    <!-- Station name plate -->
+    <path android:pathData="M30,15 H210 V45 H30 Z" android:fillColor="#11286B"/>
+    <!-- Purple line top -->
+    <path android:pathData="M0,80 H240 V100 H0 Z" android:fillColor="#7B2CBF"/>
+    <!-- Green line bottom -->
+    <path android:pathData="M0,160 H240 V180 H0 Z" android:fillColor="#06A77D"/>
+    <!-- Curved arrow showing switch -->
+    <path
+        android:pathData="M120,100 C120,130 120,130 120,160"
+        android:strokeColor="#FFB000"
+        android:strokeWidth="8"
+        android:fillColor="@android:color/transparent" />
+    <!-- Arrow head -->
+    <path
+        android:pathData="M110,155 L120,170 L130,155 Z"
+        android:fillColor="#FFB000" />
+    <!-- Purple platform label -->
+    <path android:pathData="M30,55 H100 V75 H30 Z" android:fillColor="#EEDEFF"/>
+    <!-- Green platform label -->
+    <path android:pathData="M30,190 H100 V210 H30 Z" android:fillColor="#D6F4E8"/>
+</vector>

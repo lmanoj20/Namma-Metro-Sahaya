@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <path android:pathData="M0,200 H240 V240 H0 Z" android:fillColor="#E7E7E7"/>
+    <!-- Gates -->
+    <path android:pathData="M40,80 H85 V200 H40 Z" android:fillColor="#11286B"/>
+    <path android:pathData="M155,80 H200 V200 H155 Z" android:fillColor="#11286B"/>
+    <!-- Slot on left gate -->
+    <path android:pathData="M55,110 H70 V125 H55 Z" android:fillColor="#FFB000"/>
+    <!-- Token dropping into slot -->
+    <path
+        android:pathData="M62.5,95 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"
+        android:fillColor="#FFB000" />
+    <!-- Arrow showing drop motion -->
+    <path
+        android:pathData="M76,95 L88,95 L88,90 L96,98 L88,106 L88,101 L76,101 Z"
+        android:fillColor="#06A77D" />
+    <!-- Slot on right gate -->
+    <path android:pathData="M170,110 H185 V125 H170 Z" android:fillColor="#FFB000"/>
+    <!-- Exit sign above -->
+    <path android:pathData="M85,30 H155 V60 H85 Z" android:fillColor="#06A77D"/>
+</vector>

@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- Track -->
+    <path android:pathData="M0,190 H240 V210 H0 Z" android:fillColor="#444444"/>
+    <!-- Train body -->
+    <path
+        android:pathData="M20,70 H220 A20,20 0 0 1 240,90 V180 H0 V90 A20,20 0 0 1 20,70 Z"
+        android:fillColor="#1A3A8F" />
+    <!-- Front windshield -->
+    <path android:pathData="M180,80 H225 V120 H180 Z" android:fillColor="#06A77D"/>
+    <!-- Side windows -->
+    <path android:pathData="M30,90 H50 V120 H30 Z" android:fillColor="#06A77D"/>
+    <path android:pathData="M60,90 H80 V120 H60 Z" android:fillColor="#06A77D"/>
+    <path android:pathData="M90,90 H110 V120 H90 Z" android:fillColor="#06A77D"/>
+    <path android:pathData="M120,90 H140 V120 H120 Z" android:fillColor="#06A77D"/>
+    <path android:pathData="M150,90 H170 V120 H150 Z" android:fillColor="#06A77D"/>
+    <!-- Door -->
+    <path android:pathData="M70,135 H105 V180 H70 Z" android:fillColor="#11286B"/>
+    <path android:pathData="M86,135 V180" android:strokeColor="#FFB000" android:strokeWidth="3"/>
+    <!-- Wheels -->
+    <path android:pathData="M40,185 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" android:fillColor="#111111"/>
+    <path android:pathData="M200,185 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" android:fillColor="#111111"/>
+</vector>

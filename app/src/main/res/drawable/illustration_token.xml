@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    <!-- Token machine body -->
+    <path
+        android:pathData="M40,30 H200 A12,12 0 0 1 212,42 V220 H28 V42 A12,12 0 0 1 40,30 Z"
+        android:fillColor="#1A3A8F" />
+    <!-- Screen -->
+    <path
+        android:pathData="M55,55 H185 V125 H55 Z"
+        android:fillColor="#06A77D" />
+    <!-- Screen text bars -->
+    <path android:pathData="M65,72 H160 V80 H65 Z" android:fillColor="#FFFFFF"/>
+    <path android:pathData="M65,92 H140 V100 H65 Z" android:fillColor="#FFFFFF"/>
+    <path android:pathData="M65,108 H115 V116 H65 Z" android:fillColor="#FFFFFF"/>
+    <!-- Coin slot -->
+    <path
+        android:pathData="M70,150 H170 V160 H70 Z"
+        android:fillColor="#FFB000" />
+    <!-- Token tray -->
+    <path
+        android:pathData="M70,180 H170 V205 H70 Z"
+        android:fillColor="#11286B" />
+    <!-- Round token -->
+    <path
+        android:pathData="M120,192.5 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0"
+        android:fillColor="#FFB000" />
+</vector>

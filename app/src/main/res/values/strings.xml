@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Metro Sahaya</string>
+    <string name="splash_tagline">First-Timer\'s Metro Guide</string>
+    <string name="home_title">Namma Metro Sahaya</string>
+    <string name="home_subtitle">Helping first-timers ride the Metro confidently</string>
+    <string name="lbl_from">Where are you?</string>
+    <string name="lbl_to">Where to go?</string>
+    <string name="hint_from">Type or pick a station</string>
+    <string name="hint_to">Type or pick a station</string>
+    <string name="btn_go">FIND ROUTE</string>
+    <string name="btn_token_guide">How to buy a token?</string>
+    <string name="btn_swap">Swap</string>
+    <string name="btn_lang_toggle">ಕನ್ನಡ / English</string>
+    <string name="banner_offline">OFFLINE — visual guide still works</string>
+    <string name="err_empty">Please pick both stations.</string>
+    <string name="err_invalid">Station name not recognised. Pick from the list.</string>
+    <string name="err_same">Pick two different stations.</string>
+    <string name="err_no_route">Sorry, no route found.</string>
+
+    <string name="route_title">Your Route</string>
+    <string name="fare_format">₹ %1$d</string>
+    <string name="time_format">%1$d min</string>
+    <string name="stops_format">%1$d stops</string>
+    <string name="lbl_fare">Fare</string>
+    <string name="lbl_time">Travel Time</string>
+    <string name="lbl_stops">Stops</string>
+    <string name="interchange_title">CHANGE TRAINS HERE</string>
+    <string name="interchange_hint">Get down and switch to the other line</string>
+    <string name="btn_start_guide">START VISUAL GUIDE</string>
+    <string name="btn_find_exit">FIND MY EXIT</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_prev">BACK</string>
+    <string name="btn_done">DONE</string>
+    <string name="lbl_journey_tips">Journey Tips</string>
+
+    <string name="exit_title">Which Exit Gate?</string>
+    <string name="exit_subtitle">Pick the gate that matches your destination</string>
+
+    <string name="token_title">How to Buy a Token</string>
+    <string name="token_subtitle">Step-by-step guide for first-time users</string>
+
+    <string name="stepper_title">Visual Guide</string>
+    <string name="progress_format">Step %1$d of %2$d</string>
+</resources>
